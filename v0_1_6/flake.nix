@@ -11,6 +11,7 @@
   inputs.src-docx-v0_1_6.ref   = "refs/tags/v0.1.6";
   inputs.src-docx-v0_1_6.owner = "xflywind";
   inputs.src-docx-v0_1_6.repo  = "docx";
+  inputs.src-docx-v0_1_6.dir   = "";
   inputs.src-docx-v0_1_6.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
