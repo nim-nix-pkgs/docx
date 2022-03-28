@@ -11,7 +11,6 @@
   inputs.src-docx-master.ref   = "refs/heads/master";
   inputs.src-docx-master.owner = "xflywind";
   inputs.src-docx-master.repo  = "docx";
-  inputs.src-docx-master.dir   = "";
   inputs.src-docx-master.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
